@@ -1,0 +1,2 @@
+# bookspot-credentials-api
+

@@ -1,0 +1,13 @@
+package com.allstate.BookSpotApp;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class BookSpotAppApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
